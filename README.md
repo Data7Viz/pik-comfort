@@ -75,12 +75,13 @@
 - Факториал это возможный хаос (цифровой взрыв). 
 - Фибоначчи это идеальный порядок.
 
+<img width="818" height="391" alt="Снимок экрана от 2026-09-08 18-23-44" src="https://github.com/user-attachments/assets/c6bad593-6f73-4093-bb2d-1ba79bf79a82" />
 
 ---
 
 ### HEX ИНН
 
-
+<img width="437" height="929" alt="Снимок экрана от 2026-09-08 18-25-46" src="https://github.com/user-attachments/assets/86260e9b-e956-40fd-808d-49ebd5551a29" />
 
 ---
 
