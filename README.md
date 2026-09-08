@@ -63,8 +63,12 @@
 
 ### Факториал числа или Возможный хаос
 
+<details>
+<summary><b>Смотреть Факториал 15</b></summary>
+
 <img width="757" height="454" alt="Снимок экрана от 2026-09-06 20-08-53" src="https://github.com/user-attachments/assets/389ed768-a245-46f4-b002-78aa189ac16b" />
 
+</details>
 
 Миллиарды-Трилиарды маршрутов для ошибок. 
 
@@ -75,13 +79,23 @@
 - Факториал это возможный хаос (цифровой взрыв). 
 - Фибоначчи это идеальный порядок.
 
+<details>
+<summary><b>Смотреть Факториал + Фибоначчи</b></summary>
+
 <img width="818" height="391" alt="Снимок экрана от 2026-09-08 18-23-44" src="https://github.com/user-attachments/assets/c6bad593-6f73-4093-bb2d-1ba79bf79a82" />
+
+</details>
 
 ---
 
 ### HEX ИНН
 
+<details>
+<summary><b>Смотреть ИНН в HEX</b></summary>
+
 <img width="437" height="929" alt="Снимок экрана от 2026-09-08 18-25-46" src="https://github.com/user-attachments/assets/86260e9b-e956-40fd-808d-49ebd5551a29" />
+
+</details>
 
 ---
 
